@@ -11,11 +11,7 @@ To build a general-purpose, embedded billing system that:
 * Communicates with a Linux PC for stock and payment operations.
 * Performs real-time billing and updates the database accordingly.
 
- 🖼️ Block Diagram
-
-*(Refer to the PDF for the block diagram illustration.)*
-
----
+ 
 
 🔧 Requirements
  Hardware
